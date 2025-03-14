@@ -1,6 +1,3 @@
-Ilhan Ozkan
-===========================
-
 Software Developer
 ----------------
 
